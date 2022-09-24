@@ -100,10 +100,10 @@ export const USER_CONFIG = {
       useTemplateId: "FcUzQEr6pmYtr1g44-ZRzpBo-FtOSB7GRdwxPFcb8uw",
       province: "河北",
       city: "承德",
-      horoscopeDate: '处女座',
+      horoscopeDate: '',
       horoscopeDateType: '',
       openUrl: "https://wangxinleo.cn",
-      festivals: [08-31],
+      festivals: [],
       customizedDateList: []
     },
     {
