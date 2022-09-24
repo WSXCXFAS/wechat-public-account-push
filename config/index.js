@@ -95,16 +95,16 @@ export const USER_CONFIG = {
       ]
     },
     {
-      name: "老婆1",
+      name: "冰冰",
       id: "oaR426NZoUAzl12Cjn0PkWSTmU9Y",
       useTemplateId: "FcUzQEr6pmYtr1g44-ZRzpBo-FtOSB7GRdwxPFcb8uw",
       province: "河北",
       city: "承德",
       horoscopeDate: '处女座',
-      horoscopeDateType: '处女座',
+      horoscopeDateType: '',
       openUrl: "https://wangxinleo.cn",
       festivals: [08-31],
-      customizedDateList: [FcUzQEr6pmYtr1g44-ZRzpBo-FtOSB7GRdwxPFcb8uw]
+      customizedDateList: []
     },
     {
       name: "老婆2",
